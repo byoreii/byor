@@ -1,2 +1,2 @@
 name,ring,quadrant,isNew,description
-Fixed Income Intrinsic Value (ESP),Hold,Product,FALSE,EII Research proprietary fixed income intrinsic value model implemented using SAP's Event Stream Processing software (ESP).
+Composer,adopt,tools,TRUE,"Although the idea of dependency management ..."  
