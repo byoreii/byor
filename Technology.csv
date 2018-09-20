@@ -1,5 +1,5 @@
-name,ring,quadrant,isNew,description  
-Composer,adopt,tools,TRUE,"Although the idea of dependency management ..."  
-Canary builds,trial,techniques,FALSE,"Many projects have external code dependencies ..."  
-Apache Kylin,assess,platforms,TRUE,"Apache Kylin is an open source analytics solution ..."  
-JSF,hold,languages & frameworks,FALSE,"We continue to see teams run into trouble using JSF ..."  
+name,ring,quadrant,isNew,description
+Fixed Income Intrinsic Value (ESP),Hold,Product,FALSE,EII Research proprietary fixed income intrinsic value model implemented using SAP's Event Stream Processing software (ESP).
+Equity Intrinsics (Kafka),Assess,Product,FALSE,EII Research proprietary equity intrinsic value model implemented using Kafka.													
+Graph Search,Trial,Techniques,TRUE,Semantic search													
+User Experience,Adopt,Techniques,FALSE,Shift focus to user experinece as a first class citizen.													 
