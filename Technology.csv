@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
 Fixed,Hold,Product,FALSE,ESP
-Equit,Product,FALSE,Kafka
-Graph,Techniques,TRUE,Semantic									
+Equit,Assess,Product,FALSE,Kafka
+Graph,Trial,Techniques,TRUE,Semantic									
 User,Adopt,Techniques,FALSE,Citizen
