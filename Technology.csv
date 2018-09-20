@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-"Fixed Income Intrinsic Value (ESP)",Hold,Product,FALSE,"EII Research proprietary fixed income intrinsic value model implemented using SAP's Event Stream Processing software (ESP)."
-"Equity Intrinsics (Kafka),Assess",Product,FALSE,"EII Research proprietary equity intrinsic value model implemented using Kafka."
-"Graph Search,Trial",Techniques,TRUE,"Semantic search"										
-"User Experience",Adopt,Techniques,FALSE,"Shift focus to user experinece as a first class citizen."
+Fixed,Hold,Product,FALSE,ESP
+Equit,Product,FALSE,Kafka
+Graph,Techniques,TRUE,Semantic									
+User,Adopt,Techniques,FALSE,Citizen
